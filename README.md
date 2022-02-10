@@ -1,2 +1,1 @@
-# Calculator
-# display -> [https://amitpaikra.github.io/Calculator/](url)
+# Calculator : [https://amitpaikra.github.io/Calculator/](url)
